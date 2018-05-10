@@ -1,2 +1,2 @@
 # makeyourownneuralnetwork
-Code for the Make Your Own Neural Network book
+MY FIRST neural-networks code for mnist data set(kaggle competition) inspired from Tariq Rashid.
